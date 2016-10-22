@@ -14,8 +14,8 @@
 ## 參與心得
 出發目的原先是為了改善醫療體系上的共享資源，第一次參與這類型的活動，與不同類型的夥伴合作，當然這些人也是第一次認識，當然在技術、法律與資金上與心態上，當時的團隊都不怎麼健全，所以很可惜的沒有繼續把這個案子做下去，寫 code 只是其中一個環節，完成一個產品，必須整個面向的去開拓。
 
-<img src='./markdown/assets/_hack_2/2.jpg' width='300'>
+<img src='./markdown/assets/hack_2/2.jpg' width='300'>
 
 ## CIS
 
-<img src='./markdown/assets/_hack_2/icon.png' width='200'>./markdown/assets
+<img src='./markdown/assets/hack_2/icon.png' width='200'>./markdown/assetshack_2

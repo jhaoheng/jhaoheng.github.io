@@ -7,7 +7,7 @@
 
 ## IOT Auth/Validation/Mqtt/APNS/GCM
 
-![img](./markdown/assets/_orbweb/IOT_flow2.png)
+![img](./markdown/assets/orbweb/IOT_flow2.png)
 
 IPCam / App can pass message or Auth by sys
 
@@ -92,7 +92,7 @@ A IOT platform have Live video, smart light...
 
 - osx app : websocket
 
-<video width="400" src='./markdown/assets/_orbweb/orbweb_osx_app.mov' controls></video>
+<video width="400" src='./markdown/assets/orbweb/orbweb_osx_app.mov' controls></video>
 
 ## orbweb.me
 

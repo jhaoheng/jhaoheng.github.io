@@ -2,7 +2,7 @@
 
 ## web
 
-- 台大地質系
+- 台大地質系rbdesign
 - 台大大氣系
 - 朱墨文旅
 - 朱墨案件管理系統
@@ -13,5 +13,5 @@
 
 ## App
 
-<img src='./markdown/assets/_rbdesign/ego.png' width='50%'>
-<img src='./markdown/assets/_rbdesign/elite-mobile-web.png' width='50%'>
+<img src='./markdown/assets/rbdesign/ego.png' width='50%'>
+<img src='./markdown/assets/rbdesign/elite-mobile-web.png' width='50%'>

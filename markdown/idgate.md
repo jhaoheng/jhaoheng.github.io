@@ -17,7 +17,7 @@
 - support android dev
 
 ### chb
-![img1](./markdown/assets/_idgate/app/chb.png)
+![img1](./markdown/assets/idgate/app/chb.png)
 
 - support dev
 - add slide kit
@@ -25,7 +25,7 @@
 - add debug feature
 
 ### ktb
-![img2](./markdown/assets/_idgate/app/ktb.png)
+![img2](./markdown/assets/idgate/app/ktb.png)
 
 - support and fix debug
 - add debug feature
@@ -34,7 +34,7 @@
 
 ## lib sdk 2.0
 
-![img3](./markdown/assets/_idgate/key.png)
+![img3](./markdown/assets/idgate/key.png)
 
 - dev sdk2.0 (support oo), Downward compatibility sdk1.0
 	- static library
@@ -45,4 +45,4 @@
 
 - share git exp and tech how to use it.
 - share redmine and build it on dev env
-- share CI & CD exp
+- share CI & CD expidgate
