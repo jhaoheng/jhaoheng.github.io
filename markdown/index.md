@@ -35,4 +35,4 @@ This [web site][ezresume] parse markdown to html. And use [git deploy][deployT] 
 
 [hack_1]:index.php?demo=hack_1
 [hack_2]:index.php?demo=hack_2
-	
+	./markdown/assets

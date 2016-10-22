@@ -66,11 +66,11 @@
             <div class="row">
                 <div class="hero" data-start="top:0px;opacity:1" data-top-bottom="top:100px;opacity:0">
                     <div class="col-sm-8 col-sm-offset-2">
-                        <h1>Company name</h1>
+                        <h1 id='company_name'>Company name</h1>
                         <div id="carousel-head" class="carousel slide carousel-fade">
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <h3>職位</h3>
+                                    <h3 id='company_position'>職位</h3>
                                 </div>
                             </div>
                         </div>
@@ -82,15 +82,6 @@
 
 
     <section id="cv">
-        <div class="container">
-            <div class="row">
-                <div class="hero col-sm-6 col-sm-offset-3">
-                    <h2>Curriculum Vitae</h2>
-                    <p>Get to know where I've proven my skills</p>
-                    <div class="space"></div>
-                </div>
-            </div>
-        </div>
         <div class="container">
             <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10 col-xs-offset-1 col-xs-10">
                 <div id="docsContent">
@@ -179,32 +170,6 @@
     https://github.com/showdownjs/showdown -->
     <script type="text/javascript" src='https://cdn.rawgit.com/showdownjs/showdown/1.1.0/dist/showdown.min.js'></script>
     <script type="text/javascript" src='js/parsemd.js'></script>
-    <script type="text/javascript">
-
-        var strUrl = location.search;
-        var getPara, ParaVal;
-        var aryPara = [];
-
-        if (strUrl.indexOf("?") != -1) {
-            var getSearch = strUrl.split("?");
-            getPara = getSearch[1].split("&");
-            for (i = 0; i < getPara.length; i++) {
-                ParaVal = getPara[i].split("=");
-                aryPara.push(ParaVal[1]);
-                aryPara[ParaVal[0]] = ParaVal[1];
-            }
-            alert(aryPara);
-        }
-        var mdfile = aryPara;
-        if (mdfile==null) {
-            mdfile = 'index';
-        }
-        var _path = './markdown/'+mdfile+'.md';
-        show_md_file(_path);
-
-        mixpanel.track(mdfile);
-
-    </script>
 
     </body>
 </html>

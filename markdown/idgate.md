@@ -10,10 +10,6 @@
 
 ### citic
 
-**video**
-
-<video width="200px" src='../demoList/_idgate/citic.mov' controls></video>
-
 - dev
 - activity keyboard architecture
 - add activity keyboard kit
@@ -21,7 +17,7 @@
 - support android dev
 
 ### chb
-![img1](../demoList/_idgate/app/chb.png)
+![img1](./markdown/assets/_idgate/app/chb.png)
 
 - support dev
 - add slide kit
@@ -29,7 +25,7 @@
 - add debug feature
 
 ### ktb
-![img2](../demoList/_idgate/app/ktb.png)
+![img2](./markdown/assets/_idgate/app/ktb.png)
 
 - support and fix debug
 - add debug feature
@@ -38,7 +34,7 @@
 
 ## lib sdk 2.0
 
-![img3](../demoList/_idgate/key.png)
+![img3](./markdown/assets/_idgate/key.png)
 
 - dev sdk2.0 (support oo), Downward compatibility sdk1.0
 	- static library

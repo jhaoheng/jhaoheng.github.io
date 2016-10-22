@@ -12,4 +12,10 @@
 
 - Related link : <http://huder.link/max/work/tutu/_website/>
 
+## sys flow
 
+<img src='./markdown/assets/_tutu/sys_flow.png' width=100%>
+
+## app flow (one part of all)
+
+<img src='./markdown/assets/_tutu/app_flow.png' width=100%>

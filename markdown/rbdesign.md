@@ -13,5 +13,5 @@
 
 ## App
 
-<img src='../demoList/_rbdesign/ego.png' width='50%'>
-<img src='../demoList/_rbdesign/elite-mobile-web.png' width='50%'>
+<img src='./markdown/assets/_rbdesign/ego.png' width='50%'>
+<img src='./markdown/assets/_rbdesign/elite-mobile-web.png' width='50%'>
