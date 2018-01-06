@@ -1,0 +1,9 @@
+version: "3.0"
+services:
+  nginx:
+    image: nginx
+    volumes:
+      - ./nginx/default.conf:/etc/nginx/conf.d/default.conf 
+      - ./jhaoheng.github.io:/usr/share/nginx/html/website
+    ports:
+      - 80:80/tcp
